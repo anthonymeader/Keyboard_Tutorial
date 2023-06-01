@@ -593,12 +593,12 @@ Wire Wire Line
 Wire Wire Line
 	3100 2250 3250 2250
 $Comp
-L Device:Crystal_GND24_Small Y?
+L Device:Crystal_GND24_Small Y1
 U 1 1 64786AFA
 P 3250 2150
-F 0 "Y?" V 3204 2294 50  0000 L CNN
+F 0 "Y1" V 3204 2294 50  0000 L CNN
 F 1 "Crystal_GND24_Small" V 3295 2294 50  0000 L CNN
-F 2 "" H 3250 2150 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 3250 2150 50  0001 C CNN
 F 3 "~" H 3250 2150 50  0001 C CNN
 	1    3250 2150
 	0    1    1    0   
